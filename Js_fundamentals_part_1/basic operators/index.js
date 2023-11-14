@@ -30,3 +30,10 @@ let x = 10 + 5; // 15
     x++; // x = x + 1 (16)
     x--; // x = x - 1 (14) 
 
+
+
+//Comparison operators
+console.log (ageSarah < ageJonas); //true (boolean), < > <= >=
+const isFullAge = ageSarah >= 18; // true
+
+
