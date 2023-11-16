@@ -11,7 +11,6 @@ class BMIPerson {
 
 const Mark = new BMIPerson({ weight: 78, height: 169 });
 const John = new BMIPerson({ weight: 92, height: 195 });
-const Koma = new BMICompare({ weight: 101, height: 178 });
 
 class BMICompare {
   constructor({ higher, lower }) {
